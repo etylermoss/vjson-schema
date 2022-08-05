@@ -1,0 +1,11 @@
+{
+    "productId": "Invalid ID!",
+    "productName": "An ice sculpture",
+    "price": -20,
+    "tags": [ "cold", "ice", "water" ],
+    "dimensions": {
+        "length": 7.0,
+        "width": 12.0,
+        "height": 9.5
+    }
+}
